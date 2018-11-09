@@ -1,0 +1,421 @@
+
+body    {
+    margin:0%;
+}
+
+.parentcc {
+    border-bottom:1px solid black;
+    display:flex;
+    padding:1%;
+}
+
+
+.joncc a  {
+    color:darkblue;
+    font-family: 'Merriweather Sans';
+    padding-top:5%;
+    text-decoration:none;
+}
+
+.ginacc { 
+    margin-left:2%;
+    margin-right:2%;
+    padding-left:0px;
+    padding-top:8px;
+}
+
+.ginacc a {
+    text-decoration:none;
+    color:black;
+    font-family:sans-serif;
+}
+
+.valcc { 
+    margin-left:0%;
+    margin-right:2%;
+    padding-left:0px;
+    padding-top:8px;
+}
+
+.valcc a {
+    text-decoration:none;
+    color:black;
+    font-family:sans-serif;
+}
+
+.donatecc { 
+    margin-left:0%;
+    padding-left:0px;
+    padding-top:8px;
+}
+
+.donatecc a {
+    text-decoration:none;
+    color:black;
+    font-family:sans-serif;
+}
+
+
+.contactcc { 
+    margin-left:3%;
+    padding-left:0px;
+    padding-top:8px;
+}
+
+.contactcc a {
+    text-decoration:none;
+    color:black;
+    font-family:sans-serif;
+}
+
+.miss   {
+    margin-top:35px;
+    text-align:center;
+}
+
+.miss .quote    {
+    font-family:'Nanum+Gothic';
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:3%;
+}
+
+
+.desc   {
+    padding-left:3%;
+    padding-right:3%;
+    padding-top:2%;
+    margin-bottom:5%;
+    font-family:sans-serif;
+}
+
+/*footer*/
+
+.footercc {
+    display:flex;
+    border-top:1px solid gray;
+    margin-top:3%;
+    margin-bottom:0px;
+    padding:2%;
+    font-family:sans-serif
+}
+
+.footercc .followcc  {
+    width:13%;
+    padding-right:1px;
+
+}
+
+.footercc .listsec  {
+    display:flex;
+    list-style-type:none;
+    justify-content:center;
+    padding-left:0px;
+    padding-top:5px;
+    margin-left:0px;
+    margin-right:4px;
+}
+
+.listsec .igcc{
+    width:27px;
+}
+
+.listsec .twtcc{
+    width:27px;
+}
+
+.listsec .snapcc{
+    width:21px;
+}
+
+.footercc .headingcc    {
+    display:flex;
+    justify-content:space-around;
+    width:100%;
+    margin-left:0%;
+    padding-left:0%;
+}
+
+
+
+
+
+
+/*More Contents*/
+
+.misss   {
+    display:flex;
+    padding-left:3%;
+    padding-right:3%;
+    padding-bottom:2%;
+    margin-top:3%;
+    
+}
+
+.first   {
+    text-align:left;
+    font-family:sans-serif;
+}
+
+.first .linkicc   {
+    color:navy;
+    text-decoration:none;
+    
+}
+
+.jone {
+    width:40%;
+    height:95%;
+    padding:2%;
+}
+
+.linkcc a {
+    text-decoration:none;
+    color:blue;
+}
+
+.booc   {
+    display:flex;
+    padding-left:3%;
+    padding-right:3%;
+    margin-top:3%;
+    
+}
+
+.descr   {
+    text-align:left;
+    font-family:sans-serif;
+
+}
+
+.descr .linky   {
+    text-decoration:none;
+    color:navy;
+}
+
+.amye {
+    width:40%;
+    height:95%;
+    padding:2%;
+}
+
+.linc a {
+    text-decoration:none;
+    color:blue;
+}
+
+.movecc   {
+    display:flex;
+    padding-left:3%;
+    padding-right:3%;
+    padding-bottom:2%;
+    
+}
+
+.exercise   {
+    text-align:left;
+    font-family:sans-serif;
+}
+
+.exercise .workout   {
+    color:navy;
+    text-decoration:none;
+    
+}
+
+.walk   {
+    
+    width:40%;
+    height:95%;
+    padding:2%;
+}
+
+.phys a {
+    text-decoration:none;
+    color:blue;
+}
+
+
+
+
+
+
+
+/*about page*/
+
+body {
+    font-family: "Roboto";
+    margin: 5%;
+    min-width: 960px;
+    padding-bottom: 400px;
+    padding-top: 90px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 1.8em;
+}
+
+.wil {
+    padding-left: 15%;
+    padding-right: 15%;
+    margin: 8px;
+    padding-bottom: 5%;
+    
+}
+.l {
+    color: blue;
+    
+}
+          
+.parentl {
+    display: flex;
+    
+}
+.at img {
+    height: 53%;
+}
+.at {
+     
+    
+    padding-left: 5%;
+}
+.am {
+    
+    padding-left: 5%;
+
+}
+
+.parenta {
+    display: flex;
+}
+.ay {
+    
+    padding-left: 5%;
+}
+.mar {
+
+    padding-left: 5%;
+}
+.mar img {
+    height: 55%;
+    width: 35%;
+}
+
+.parentw {
+    display: flex;
+    padding-left: 5%;
+}
+.dy{
+   
+    padding-left: 5%;
+}
+.car {
+    
+    padding-left: 5%;
+    
+}
+
+h1 {
+    
+    color: blue;
+    
+}
+.car img {
+    padding-left: 10%;
+}
+
+
+
+/*volunteer page*/
+
+
+.pic1fd img {
+    width: 75%;
+    padding: 2%;
+    margin-left: 12%;
+}
+
+.involvedfd {
+    font-family: "Roboto";
+    padding: 2% 30%;
+    color: blue;
+    align-content: center;
+}
+
+.parentfd {
+    display: flex;
+    flex: 4;
+    text-align: center;
+}
+.volunteerfd {
+    font-family: "Roboto";
+    padding: 2%;
+    color: blue;
+    text-align: center;
+}
+
+.volunteerfd img {
+    width: 95%;
+    padding: 3%;
+    padding-bottom: 4%;
+}
+    
+ .eventsfd {
+    font-family: "Roboto";
+    padding: 2%;
+    color: blue;
+    text-align: center;
+    padding-top: 3%;    
+}
+
+.eventsfd img {
+    width: 95%;
+    padding: 3%;
+    padding-bottom: 2%;
+}
+
+body {
+    margin: 0px;
+    min-width: 960px;
+}
+
+span {
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+    margin: 40%;
+    background-color: black;
+    color: white;
+}
+
+.pic1fd h1 {
+    position: relative;
+    top: -65px;
+}
+
+.learn {
+    color: blue;
+    padding-left: 10%;
+    font-family: "Roboto"; 
+}
+
+.volunteerfd p {
+    color: black;
+}
+
+.eventsfd p {
+    color: black;
+}
+
+.involvedfd p {
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
